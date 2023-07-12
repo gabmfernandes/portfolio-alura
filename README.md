@@ -1,4 +1,4 @@
-#Olá, Bem vindo ao meu projeto de portfólio.
+# Olá, Bem vindo ao meu projeto de portfólio.
 
 ![image](https://github.com/gabmfernandes/portfolio-alura/blob/main/imagens/projeto-foto.png)
 
