@@ -10,9 +10,13 @@
 
 * Flex-box
 
+## Acesso ao projeto:
+
+* Link: https://portfolio-alura-lilac-three.vercel.app/
+
 ## Feito por:
 
-### Joana Santos
+### Gabriel Fernandes
 
 ### Linkedin: https://www.linkedin.com/in/gabriel-fernandes-229577228/
 
